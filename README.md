@@ -21,6 +21,10 @@
  - HashiCorp Terraform
  - Markdown All in One
 
+#### OhMyPosh
+ - https://ohmyposh.dev/docs/installation/linux
+ - https://docs.brew.sh/Homebrew-on-Linux
+
 ### 2. WSL 환경내 설치
   ```shl
   sudo apt install tree
