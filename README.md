@@ -2,7 +2,7 @@
 - 개인 개발환경 구성에 도움되는 환경정리 
 
 ## MAC
-###Install Programs
+### Install Programs
 - VSCode
 - Wrap
 - OrbStack
