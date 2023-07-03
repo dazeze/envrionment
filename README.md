@@ -1,11 +1,25 @@
 # Environment settings
 - 개인 개발환경 구성에 도움되는 환경정리 
 
-## Install Programs
+## MAC
+###Install Programs
 - VSCode
-- wsl2
-- ubuntu20
-- Windows Command Line
+- Wrap
+- OrbStack
+- DBeaver
+- Notion
+- Zoom
+- Good Notes
+- Webex
+- KeyNote
+- Spectacle
+
+## Windows 
+### Install Programs
+- VSCode
+- wsl 2
+ - ubuntu20
+ - Windows Command Line
 - 반디집
 
 ### 1. VSCode Extension Plugins
